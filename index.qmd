@@ -1,11 +1,6 @@
 ---
-title: "second-project"
+title: "Cool Mapping Project"
 ---
 
-This is a Quarto website.
+This is a my cool project.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: b8d35168-9d3f-4878-8bb7-fc7013cb311d
+      url: 'https://quartopub.com/sites/davidkane/third-project'
